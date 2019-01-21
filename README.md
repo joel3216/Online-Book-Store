@@ -1,2 +1,2 @@
-# Web-Mini-Project
-Web Mini Project for 7th semester
+pdfs and images are not included so you can use your own.
+import the sql file in the server of your choice.
